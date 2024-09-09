@@ -3,6 +3,7 @@ this one is for the podcast user
 
 
 Sample YAML file
+```
 title: Basketball
 subtitle: Powered by Gatorde
 author: Russell 
@@ -43,7 +44,7 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
-
+```
 
 Sample Workflow 
 

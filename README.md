@@ -48,6 +48,7 @@ item:
 
 Sample Workflow 
 
+```
 name: Generate Podcast Feeds user 1 
 on: [push]
 jobs:
@@ -58,4 +59,5 @@ jobs:
      uses: actions/checkout@v3
    - name: Run Feed Generator
      uses: Rusmore/podcast-user1-gernerator@main
+```
 
